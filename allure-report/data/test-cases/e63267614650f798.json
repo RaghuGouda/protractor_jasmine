@@ -1,0 +1,62 @@
+{
+  "uid" : "e63267614650f798",
+  "name" : "should greet the named user",
+  "fullName" : "angularjs homepage.should greet the named user",
+  "historyId" : "e95e214c19e6b636e996f53e9116ec2",
+  "time" : {
+    "start" : 1582364826569,
+    "stop" : 1582364832956,
+    "duration" : 6387
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2e132daa260da772",
+      "name" : "Screenshot",
+      "source" : "2e132daa260da772.png",
+      "type" : "image/png",
+      "size" : 108484
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "angularjs homepage"
+  }, {
+    "name" : "testClass",
+    "value" : "angularjs homepage"
+  }, {
+    "name" : "testMethod",
+    "value" : "should greet the named user"
+  }, {
+    "name" : "package",
+    "value" : "angularjs homepage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e63267614650f798.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Expected 'build an AngularJS app' to equal 'build an AngularJS ap'.",
+      "children" : [ {
+        "name" : "should list todos",
+        "uid" : "b7706ef0c176af61",
+        "parentUid" : "584a09e664ce8fce632ab0cbfa607436",
+        "status" : "failed",
+        "time" : {
+          "start" : 1582364832956,
+          "stop" : 1582364834216,
+          "duration" : 1260
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "584a09e664ce8fce632ab0cbfa607436"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

@@ -1,0 +1,60 @@
+{
+  "e95e214c19e6b636e996f53e9116ec2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e63267614650f798",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582364826569,
+        "stop" : 1582364832956,
+        "duration" : 6387
+      }
+    } ]
+  },
+  "9304ad3ed4d1cd88464866ff880f111d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9f71cc07a74f95aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582364834216,
+        "stop" : 1582364836873,
+        "duration" : 2657
+      }
+    } ]
+  },
+  "d3300c751a52b956070f01bd63fabf07" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b7706ef0c176af61",
+      "status" : "failed",
+      "statusDetails" : "Expected 'build an AngularJS app' to equal 'build an AngularJS ap'.",
+      "time" : {
+        "start" : 1582364832956,
+        "stop" : 1582364834216,
+        "duration" : 1260
+      }
+    } ]
+  }
+}

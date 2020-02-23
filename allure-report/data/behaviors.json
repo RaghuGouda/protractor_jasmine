@@ -1,0 +1,44 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "should greet the named user",
+    "uid" : "e63267614650f798",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1582364826569,
+      "stop" : 1582364832956,
+      "duration" : 6387
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "should list todos",
+    "uid" : "b7706ef0c176af61",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1582364832956,
+      "stop" : 1582364834216,
+      "duration" : 1260
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "should add a todo",
+    "uid" : "9f71cc07a74f95aa",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1582364834216,
+      "stop" : 1582364836873,
+      "duration" : 2657
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

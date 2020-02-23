@@ -1,0 +1,52 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "angularjs homepage",
+    "children" : [ {
+      "name" : "should greet the named user",
+      "uid" : "e63267614650f798",
+      "parentUid" : "a85b525ecaeb7456b5b35f3364cb2dd9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582364826569,
+        "stop" : 1582364832956,
+        "duration" : 6387
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a85b525ecaeb7456b5b35f3364cb2dd9"
+  }, {
+    "name" : "angularjs homepage todo list",
+    "children" : [ {
+      "name" : "should list todos",
+      "uid" : "b7706ef0c176af61",
+      "parentUid" : "12fb82178ac33242432ef3948bab9734",
+      "status" : "failed",
+      "time" : {
+        "start" : 1582364832956,
+        "stop" : 1582364834216,
+        "duration" : 1260
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should add a todo",
+      "uid" : "9f71cc07a74f95aa",
+      "parentUid" : "12fb82178ac33242432ef3948bab9734",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582364834216,
+        "stop" : 1582364836873,
+        "duration" : 2657
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "12fb82178ac33242432ef3948bab9734"
+  } ]
+}

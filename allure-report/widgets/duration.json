@@ -1,0 +1,31 @@
+[ {
+  "uid" : "e63267614650f798",
+  "name" : "should greet the named user",
+  "time" : {
+    "start" : 1582364826569,
+    "stop" : 1582364832956,
+    "duration" : 6387
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f71cc07a74f95aa",
+  "name" : "should add a todo",
+  "time" : {
+    "start" : 1582364834216,
+    "stop" : 1582364836873,
+    "duration" : 2657
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7706ef0c176af61",
+  "name" : "should list todos",
+  "time" : {
+    "start" : 1582364832956,
+    "stop" : 1582364834216,
+    "duration" : 1260
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

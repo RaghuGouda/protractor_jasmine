@@ -1,0 +1,70 @@
+{
+  "uid" : "b7706ef0c176af61",
+  "name" : "should list todos",
+  "fullName" : "angularjs homepage todo list.should list todos",
+  "historyId" : "d3300c751a52b956070f01bd63fabf07",
+  "time" : {
+    "start" : 1582364832956,
+    "stop" : 1582364834216,
+    "duration" : 1260
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'build an AngularJS app' to equal 'build an AngularJS ap'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (D:\\jasmine\\example\\example_spec.js:23:41)\n                    at D:\\jasmine\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (D:\\jasmine\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (D:\\jasmine\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (D:\\jasmine\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (D:\\jasmine\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (D:\\jasmine\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at asyncRun (D:\\jasmine\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25)\n                    at D:\\jasmine\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected 'build an AngularJS app' to equal 'build an AngularJS ap'.",
+    "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (D:\\jasmine\\example\\example_spec.js:23:41)\n                    at D:\\jasmine\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (D:\\jasmine\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (D:\\jasmine\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (D:\\jasmine\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (D:\\jasmine\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (D:\\jasmine\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at asyncRun (D:\\jasmine\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25)\n                    at D:\\jasmine\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "50d77a7fb9013cfc",
+      "name" : "Screenshot",
+      "source" : "50d77a7fb9013cfc.png",
+      "type" : "image/png",
+      "size" : 47281
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "angularjs homepage todo list"
+  }, {
+    "name" : "testClass",
+    "value" : "angularjs homepage todo list"
+  }, {
+    "name" : "testMethod",
+    "value" : "should list todos"
+  }, {
+    "name" : "package",
+    "value" : "angularjs homepage todo list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "b7706ef0c176af61.json",
+  "parameterValues" : [ ]
+}
